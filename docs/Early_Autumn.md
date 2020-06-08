@@ -1,9 +1,7 @@
 ---
 layout: default
-Title: Early Autumn -- by Langston Hughes
+title: Early Autumn -- by Langston Hughes
 ---
-
-### Early Autumn
 
 When Bill was very young, they had been in love. Many nights they had spent walking, talking together. Then something not very important had come between them, and they didn't speak. Impulsively, she had married a man she thought she loved. Bill went away, bitter about women.
 
