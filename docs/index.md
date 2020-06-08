@@ -1,6 +1,8 @@
 ---
 layout: default
+Title: Readings
 ---
 
 ## There are some beautiful english short stories.
-sss
+
+[Early Autumn - by Langston Hughes](https://cheryli.github.io/Readings/Early_Autumn/)
