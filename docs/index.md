@@ -1,6 +1,6 @@
 ---
 layout: default
-Title: Readings
+title: Readings
 ---
 
 ## There are some beautiful english short stories.
