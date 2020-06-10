@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Early Autumn -- by Langston Hughes
+title: Early Autumn 
 ---
 
-## Early Autumn
+## Early Autumn - by Langston Hughes
+
 When Bill was very young, they had been in love. Many nights they had spent walking, talking together. Then something not very important had come between them, and they didn't speak. Impulsively, she had married a man she thought she loved. Bill went away, bitter about women.
 
 Yesterday, walking across Washington Square, she saw him for the first time in years.
