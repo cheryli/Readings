@@ -56,7 +56,7 @@ Suddenly the lights came on up the whole length of Fifth Avenue, chains of misty
 
 He held out his hand. "Good-bye."
 
-"When..." she wanted to say, but the bus was ready to pull off. The lights on the avenue blurred. And she was afraid to open her mouth as she entered the bus. Afraid it would be impossible to utter a word.
+"When..." she wanted to say, but the bus was ready to pull off. The lights on the avenue blurred,twinkled, blurred. And she was afraid to open her mouth as she entered the bus. Afraid it would be impossible to utter a word.
 
 Suddenly she shrieked very loudly, “Good-bye!” But the bus door had closed.
 
